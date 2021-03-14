@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>edu.ubb</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">edu.ubb.Controller</node>
+    <node x="221.0" y="651.0">edu.ubb.model</node>
+    <node x="504.0" y="0.0">edu.ubb.Main</node>
+    <node x="0.0" y="651.0">edu.ubb.repository</node>
+    <node x="402.0" y="651.0">edu.ubb.files</node>
+    <node x="280.0" y="0.0">edu.ubb.Timer</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7392059553349875" x="394.40009255360235" y="406.93129766035236" />
+  <SelectedNodes>
+    <node>edu.ubb.model</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
